@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @CodeBreak-Matrix
-- 👀 I’m interested in coding and Web development
-- 🌱 I’m currently learning Python from Udemy
+- 👀 I’m interested in Software development and in Artificial Intelligence
+- 🌱 I’m currently studying Computer Science at CUSAT
+- ⚡My skills:
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,linkedin,opencv,py,mysql,visualstudio,windows,html,css&perline=5" />
+  </a>
+</p>
 - 💞️ I’m looking to collaborate on any project where my skills might be needed
 - 📫 How to reach me: pravaalofficial@gmail.com
 
