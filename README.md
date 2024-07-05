@@ -9,6 +9,7 @@
 </p>
 - 💞️ I’m looking to collaborate on any project where my skills might be needed
 - 📫 How to reach me: pravaalofficial@gmail.com
+- 💼 Check me out at my LinkedIn page: [LinkedIn: Pravaal B Nath](https://www.linkedin.com/in/pvlbnath-cdbk999/)
 
 <!---
 CodeBreak-Matrix/CodeBreak-Matrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
